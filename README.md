@@ -1,2 +1,1 @@
-# MUSICOIN
-MUSIC DIGITAL COIN 
+git init
